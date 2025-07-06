@@ -17,7 +17,7 @@ dependencies:
   - plotly
   - pytest
   - pytest-cov
-  - python=3.6.6
+  - python=3.11
   - requests
   - selenium
   - pip:
